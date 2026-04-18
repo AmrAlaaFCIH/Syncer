@@ -1,0 +1,7 @@
+{
+    "role": "follower",
+    "server_url": "ws://localhost:8080",
+    "vlc_path": "",
+    "vlc_http_port": 8082,
+    "vlc_http_password": "secret_password"
+}
